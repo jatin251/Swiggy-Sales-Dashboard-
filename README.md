@@ -1,5 +1,5 @@
-Swiggy Sales Dashboard
-Overview
+**Swiggy Sales Dashboard**
+**Overview**
 This Power BI project aims to create an advanced and interactive sales dashboard for Swiggy, a popular food delivery platform. The dashboard utilizes data from CSV files including menu, food, order, and restaurant information to provide insights into sales trends, popular items, customer behavior, and restaurant performance. Data cleaning and transformation processes have been performed using Python and SQL to ensure data accuracy and consistency.
 
 Prerequisites
@@ -43,4 +43,9 @@ Explore the dashboard by interacting with slicers, filters, and visualizations t
 Customize and extend the dashboard further by incorporating additional data sources, advanced calculations, or custom visuals as per your requirements.
 **Screenshots**
 https://drive.google.com/file/d/1e0SkyAvGQ7U2Ytls2aeni8SFhgs3SpwD/view?usp=drive_link
-For more you can refer the google drive link ( https://drive.google.com/file/d/1e0SkyAvGQ7U2Ytls2aeni8SFhgs3SpwD/view?usp=drive_link)
+For more you can refer the google drive link -->>https://drive.google.com/file/d/1eqc9umAYowbZqp5aYlXGr13FRl9-IKR-/view?usp=sharing
+
+![Screenshot 2024-05-28 114054](https://github.com/jatin251/Swiggy-Sales-Dashboard-/assets/96869090/1cb54d6b-3058-4329-a605-252ea3467e3a)
+![Screenshot 2024-05-28 114200](https://github.com/jatin251/Swiggy-Sales-Dashboard-/assets/96869090/52969b26-b67b-4924-a3d9-8c830952b18b)
+
+
